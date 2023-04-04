@@ -7,7 +7,7 @@ public class DataType
 {
     public static void main(String[] args) {
         int num = 15; // 10 진수
-        int num2 = 015; // 8 진수
+        int num2 = 015; // 8 진수 015를 출력할시 8진수로 계산되어서 13으로 출력된다.
         int num3 = 0x15; // 16진수(21)
         int num4 = 0b0101; // 2진수(5)
 

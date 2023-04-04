@@ -2,19 +2,19 @@ package java0314;
 
 public class Casting {
     public static void implicit() {
-        byte bNum = 10;
-        int iNum = bNum;
-        System.out.println(bNum);
-        System.out.println(iNum);
+        byte bNum = 10; //bNum 변수는 10
+        int iNum = bNum; //iNum 변수는 bNum
+        System.out.println(bNum); //10
+        System.out.println(iNum); //10
 
-        int iNum2 = 20;
-        float fNum = iNum;
-        System.out.println(iNum);
-        System.out.println(fNum);
+        int iNum2 = 20; // iNum2 는 20
+        float fNum = iNum; // fNum 변수는 iNum(10)
+        System.out.println(iNum2); //20
+        System.out.println(fNum); // 10
 
         double dNum;
-        dNum = fNum + iNum;
-        System.out.println(dNum);
+        dNum = fNum + iNum2;
+        System.out.println(dNum); // 30
     }
 
     public static void explicit() {

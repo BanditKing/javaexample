@@ -2,13 +2,13 @@ public class SwitchCase {
     public static void intCase(int ranking) {
         char medalColor;
         switch (ranking) {
-            case 1 : medalColor = 'G';
+            case 1 : medalColor = 'A';
                 break;
-            case 2 : medalColor = 'G';
+            case 2 : medalColor = 'B';
                 break;
-            case 3 : medalColor = 'G';
+            case 3 : medalColor = 'C';
                 break;
-            default : medalColor = 'A';
+            default : medalColor = 'D';
         }
 //
         System.out.println(ranking + "등 메달의 색깔은 " + medalColor + "입니다");

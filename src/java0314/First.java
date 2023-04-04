@@ -3,7 +3,8 @@ package java0314;
 public class First {
     public static int sum(int n, int m) {
         int s = n + m;
-        return s;
+
+        return s; // s 를 반환함으로써 이 결과를 외부에서도 사용할 수 있게 해주었다.
 
     }
 
@@ -20,6 +21,8 @@ public class First {
         System.out.println(a);
 
         String str = "안녕하세요?";
+
+        System.out.println(str);
     }
 }
 
