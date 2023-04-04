@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7ccb66b8-20ce-46dc-a6c8-682a8ecaf29a" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java0314/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0314/Casting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java0314/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0314/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java0314/DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0314/DataType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java0314/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0314/First.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java0314/IfExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0314/IfExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java0314/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0314/SwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java0314/operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java0314/operation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679387239957</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="first commit">
+      <created>1680585698447</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680585698447</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
